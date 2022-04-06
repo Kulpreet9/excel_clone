@@ -2,8 +2,9 @@
 
 <img src="https://github.com/Kulpreet9/excel_clone/blob/main/clone.png">
      
-To run, just to go to index.html file in activity folder and then open it on the browser or using open with live server option. 
-*********************************************************************************************
+
+To get started, simply go to index.html file in the activity folder and open it in a browser or using the live server opening option.
+
 -> Features of Excel_Clone:-
 <ul>
   <li>Text formatting and alignments</li>
