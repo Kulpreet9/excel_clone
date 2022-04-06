@@ -4,7 +4,7 @@
      
 To run, just to go to index.html file in activity folder and then open it on the browser or using open with live server option. 
 *********************************************************************************************
--> features of Excel_Clone:-
+-> Features of Excel_Clone:-
 <ul>
   <li>Text formatting and alignments</li>
   <li> New Open Save with file names included</li>
